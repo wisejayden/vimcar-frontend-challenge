@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\n  <head>\n    <title>Vimcar Frontend Coding Challenge</title>\n  </head>\n  <body>\n    <div id=\"react-root\"></div>\n    <script src=\"/08c5baba9d0827ee02c79754ccde7f13.js\"></script>\n  </body>\n</html>\n"},"hash":"4df24ef5ae12f5270e6b93418e3345fc","cacheData":{}}

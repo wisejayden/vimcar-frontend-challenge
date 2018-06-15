@@ -1,0 +1,28 @@
+{
+  "name": "vimcar-frontend-challenge",
+  "version": "1.0.0",
+  "description": "Frontend Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html --log-level 3 --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisejayden/vimcar-frontend-challenge.git"
+  },
+  "author": "Jayden Wise",
+  "dependencies": {
+    "pages": "0.0.16",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisejayden/vimcar-frontend-challenge/issues"
+  },
+  "homepage": "https://github.com/wisejayden/vimcar-frontend-challenge#readme"
+}

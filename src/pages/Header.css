@@ -1,0 +1,27 @@
+/* Look into svg viewbox */
+#logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 32px;
+}
+#cart {
+    position: relative;
+    display: flex;
+    left: 95vw;
+    top: 20px;
+}
+#cart-quantity {
+    position: absolute;
+    left: 16px;
+    bottom: 15px;
+    color: white;
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 50px;
+    background-color: black;
+    font-size: 10px;
+
+}
