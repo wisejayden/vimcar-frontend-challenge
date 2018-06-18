@@ -1,0 +1,22 @@
+{
+    "catalog": [
+        "h38ss-dtbl-sel-201603@2x.png",
+        "h38ss-dtgr-sel-201603@2x.png",
+        "h38ss-dtrd-sel-201603@2x.png",
+        "h42ss-stbk-sel-201603@2x.png",
+        "s42gd-nsgb-sel-201603@2x.png",
+        "s42rg-nsdb-sel-201603@2x.png",
+        "s42sg-nsbk-sel-201603@2x.png",
+        "s42si-nssb-sel-201603@2x.png"
+    ],
+    "catalogOrder": [
+        "catalog1",
+        "catalog2",
+        "catalog3",
+        "catalog4",
+        "catalog5",
+        "catalog6",
+        "catalog7",
+        "catalog8"
+    ]
+}

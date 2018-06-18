@@ -1,4 +1,10 @@
-/* Look into svg viewbox */
+#header {
+    width: 100%;
+    height: 80px;
+    z-index: 30;
+    position: fixed;
+    background-color: #fafafa;
+}
 #logo {
     position: absolute;
     left: 50%;
@@ -8,8 +14,9 @@
 #cart {
     position: relative;
     display: flex;
-    left: 95vw;
+    left: 90vw;
     top: 20px;
+    cursor: pointer;
 }
 #cart-quantity {
     position: absolute;

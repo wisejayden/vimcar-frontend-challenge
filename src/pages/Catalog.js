@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
+import './Catalog.css';
 
-class Catalog extends Component {
-    render() {
-        return (
-            <div>
-            Hello
-            </div>
-        )
-    }
+
+const Catalog = (props) => {
+    return(
+        <div id="catalog-container">
+            {props.currentCatalog}
+        </div>
+    )
 }
 
 export default Catalog

@@ -8,7 +8,7 @@ const Header = (props) => {
     return(
         <div id="header">
             <img id="logo" src={logo} />
-            <div id="cart">
+            <div onClick={props.checkCart} id="cart">
                 <img id="cart-image" src={cart} />
                 <div id="cart-quantity">{props.cartQuantity}</div>
             </div>
